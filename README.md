@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**MWB6763/MWB6763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# MWB
+<a href="https://www.youtube.com/channel/UC5rY90rYvwHJUHgH7iuSHew"><img src="https://github.com/SplashyStudio/Splashy-Studio-2/blob/main/ss2Icon.jpg?raw=true" title="Splashy Studio"></a>
+<h2>Who?</h2>
+<li>Creator of <a href="https://www.youtube.com/channel/UC5rY90rYvwHJUHgH7iuSHew" title="Splashy Studio YouTube channel"><b><i>Splashy Studio</i></b></a></li>
+<li><b>Geometry Dash</b> player</li>
+<li><b><i>Super</i> active</b> on <b><i><a href="https://www.youtube.com/channel/UCu7a0qLsRb1TNutICA1EZuw" title="My YouTube channel">YouTube</a></i></b> and <i>other</i> websites</li>
+<h2>Working On&hellip;</h2>
+<li><b><i><a href="https://github.com/SplashyStudio" title="Splashy Studio GitHub organization">Splashy Studio</a></i></b> itself</li>
+<li>Improving the <b><i><a href="https://splashystudio.github.io" title="Splashy Studio website">Splashy Studio website</a></i></b></li>
+<li>Edits for the <b><i><a href="https://splashy-studio.fandom.com/wiki/Splashy_Studio_Wiki" title="Splashy Studio wiki">Splashy Studio wiki</a></i></b></li>
+<li>Making my life better</li>
+<h2>Languages I Use</h2>
+<li><b><i><a href="https://html.com" title="HTML">HTML</a></i></b> (mostly)</li>
+<li><b><i><a href="https://css.com" title="CSS">CSS</a></i></b></li>
+<li><b><i><a href="https://javascript.com" title="JS">JS</a></i></b></li>
+<li><b><i><a href="https://electronjs.org" title="Electron">Electron</a></i></b></li>
+<h2>Email Me At&hellip;</h2>
+<li><b><i>designsbysamanthapgh@gmail.com (my main <a href="https://www.youtube.com/channel/UCu7a0qLsRb1TNutICA1EZuw">YouTube channel's</a> email)</i></b>
+<li><b><i>mwb6763@gmail.com</i></b> (this account's email)</li>
+<li><b><i>splashystudio53@gmail.com</b> (Splashy Studio email that's especially used for it's <b><i><a href="https://www.youtube.com/channel/UC5rY90rYvwHJUHgH7iuSHew" title="Splashy Studio YouTube channel">YouTube channel</a></i></b>)</li>
