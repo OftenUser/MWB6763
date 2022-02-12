@@ -1,7 +1,7 @@
 # MWB
-<a href="https://www.youtube.com/channel/UC5rY90rYvwHJUHgH7iuSHew"><img src="https://github.com/SplashyStudio/Splashy-Studio-2/blob/main/ss2Icon.jpg?raw=true" title="Splashy Studio"></a>
+<a href="https://youtube.com/channel/UC5rY90rYvwHJUHgH7iuSHew"><img src="https://github.com/SplashyStudio/.github/blob/main/assets/images/icon.png?raw=true" title="Splashy Studio"></a>
 <h2>Who?</h2>
-<li>Creator of <a href="https://www.youtube.com/channel/UC5rY90rYvwHJUHgH7iuSHew" title="Splashy Studio YouTube channel"><b><i>Splashy Studio</i></b></a></li>
+<li>Creator of <a href="https://youtube.com/channel/UC5rY90rYvwHJUHgH7iuSHew" title="Splashy Studio YouTube channel"><b><i>Splashy Studio</i></b></a></li>
 <li><b>Geometry Dash</b> player</li>
 <li><b><i>Super</i> active</b> on <b><i><a href="https://www.youtube.com/channel/UCu7a0qLsRb1TNutICA1EZuw" title="My YouTube channel">YouTube</a></i></b> and <i>other</i> websites</li>
 <h2>Working On&hellip;</h2>
